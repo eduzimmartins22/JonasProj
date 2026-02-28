@@ -115,19 +115,7 @@ npx expo run:ios
 npx expo start --web
 ```
 
----
 
-## 🔑 Senhas Padrão
-
-| Perfil | Senha |
-|--------|-------|
-| 👑 Administrador | `adm123` |
-| ✂️ Jonas 1 | `jonas1` |
-| ✂️ Jonas 2 | `jonas2` |
-
-> ⚠️ Senhas podem ser alteradas pelo administrador diretamente no app.
-
----
 
 ## 🧱 Stack Técnica
 
