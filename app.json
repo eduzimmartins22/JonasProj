@@ -1,15 +1,29 @@
 {
   "expo": {
-    "extra": {
-      "eas": {
-        "projectId": "8afe55d1-1aff-4d4c-829c-10752efbd423"
-      }
+    "name": "Jonas Cabelereiro",
+    "slug": "jonasproj",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.eduardo132.jonasproj",
+      "versionCode": 1
     },
     "ios": {
       "bundleIdentifier": "com.eduardo132.jonasproj",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8afe55d1-1aff-4d4c-829c-10752efbd423"
+      }
+    },
+    "owner": "eduardo132"
   }
 }
